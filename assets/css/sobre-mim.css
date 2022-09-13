@@ -35,6 +35,27 @@ p{
 }
 
 
+.video .video{
+    width: 100%;
+}
+/* .video video {
+width: 80% !important;
+
+} */
+
+/* .video .video1, 
+.video .video2 {
+    width: 80%;
+
+}
+
+.video .video3 {
+    width: 100%;
+} */
+
+
+
+
 /* .avatar {
     width: 323px;
     height: 368px;
